@@ -2,7 +2,7 @@
 
 <p>
 <h3> 18th September 2017</h3>
-INTERPOLATION is an original story and coded layout created by JayKayOT6.
+INTERPOLATION is an original story and coded layout created by JayKayOT6. You can view the webpage at https://jaykayot6.github.io/INTERPOLATION/
 				
 A static HTML page with more than one interactive scrolling panes, images, various internal links and aesthetivally appealing colour palette. INTERPOLATION is sure to catch the eyes of curious people, whether it be by the simple blurb or the unique story presentation<br>
 				
